@@ -9,7 +9,7 @@ This is a Flask-based backend application for a personal planner. It provides a 
 
 ---
 
-## Features
+## ✨ Features
 
 -   **Task Management**: Create, retrieve, update, and delete tasks.
 -   **Recurring Tasks**: Set up tasks that repeat daily or weekly.
@@ -19,7 +19,7 @@ This is a Flask-based backend application for a personal planner. It provides a 
 
 ---
 
-## Getting Started
+## 🚀 Getting Started
 
 ### Prerequisites
 
@@ -78,7 +78,7 @@ This is a Flask-based backend application for a personal planner. It provides a 
 
 ---
 
-## Project Structure
+## 📂 Project Structure
 
 ```
 .
@@ -92,7 +92,7 @@ This is a Flask-based backend application for a personal planner. It provides a 
 
 ---
 
-## API Endpoints
+## 🔌 API Endpoints
 
 ### Tasks
 
@@ -123,7 +123,7 @@ This is a Flask-based backend application for a personal planner. It provides a 
 
 ---
 
-## Database Models
+## 🗄️ Database Models
 
 ### Task
 
@@ -164,7 +164,7 @@ This is a Flask-based backend application for a personal planner. It provides a 
 
 ---
 
-## Future Work / Roadmap
+## 🗺️ Future Work / Roadmap
 Planned improvement and features include:
 
 * Adding authorization and authenitcation to allow multiple users
@@ -172,9 +172,10 @@ Planned improvement and features include:
 
 ---
 
-## Status
+## 🚧 Status
 
-🚧 This is a capstone project and currently a work in progress. 🚧  
+This is a capstone project and currently a work in progress.   
 Features and API are subject to change as development continues.
 
 ---
+
